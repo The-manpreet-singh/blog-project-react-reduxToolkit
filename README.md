@@ -1,6 +1,6 @@
 # "React Redux Toolkit With Blog-Project"
 
-### Dependancies
+### Dependencies
 
 - npm install @reduxjs/toolkit react-redux
 
